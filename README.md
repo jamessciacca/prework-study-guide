@@ -1,4 +1,4 @@
-# <PreWork-Study_Guide>
+# PreWork Study Guide
 
 ## Description
 
@@ -7,9 +7,7 @@ I created this project as my first walkthrough for my Coding Bootcamp, completin
 It solves the problem of not having a study guide availible to me for the course.
 My motivation for the project was to learn and explore the world of programming, also I enjoyed going through the modules and completing each step!
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
